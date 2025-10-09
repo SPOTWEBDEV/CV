@@ -35,21 +35,28 @@ export function Navigation() {
 
   return (
     <nav
-      className={`fixed top-0 left-0 right-0 z-50 transition-all ${
-        isScrolled ? "bg-background/95 backdrop-blur-sm border-b border-border" : "bg-transparent"
-      }`}
+      className={`fixed top-0 left-0 right-0 z-50 transition-all ${isScrolled ? "bg-background/95 backdrop-blur-sm border-b border-border" : "bg-transparent"
+        }`}
     >
       <div className="max-w-7xl mx-auto px-4">
         <div className="flex items-center justify-between h-16">
           <a href="#" className="flex items-center gap-3">
             <Image
-              src={profileData.company.logo || "/placeholder.svg"}
+              src={profileData.company["logo"] || "/placeholder.svg"}
               alt={profileData.company.name}
               width={100}
               height={100}
-              className="object-contain"
+              className="object-contain dark:hidden"
             />
-            <span className="text-xl font-bold text-foreground hidden sm:block">{profileData.company.name}</span>
+
+            <Image
+              src={profileData.company["logo-dark"] || "/placeholder-dark.svg"}
+              alt={profileData.company.name}
+              width={100}
+              height={100}
+              className="object-contain hidden dark:block"
+            />
+            {/* <span className="text-xl font-bold text-foreground hidden sm:block">{profileData.company.name}</span> */}
           </a>
 
           {/* Desktop Navigation */}

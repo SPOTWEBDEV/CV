@@ -20,10 +20,10 @@ export default function Home() {
         <div id="about">
           <HeroSection />
         </div>
+        <ProjectsSection />
         <TestimonialsSection />
         <SkillsSection />
         <ExperienceSection />
-        <ProjectsSection />
         <EducationSection />
         <AwardsSection />
         <ContactSection />

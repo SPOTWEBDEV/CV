@@ -19,7 +19,7 @@ export function AudioProvider({ children }: { children: ReactNode }) {
     const savedAudioState = localStorage.getItem("audioEnabled")
     const shouldPlay = savedAudioState === null ? true : savedAudioState === "true"
 
-    audioRef.current = new Audio("/audio/background-music.mp3")
+    audioRef.current = new Audio("/audio/spotwebtech-voice.mp3")
     audioRef.current.loop = true
     audioRef.current.volume = 0.3
 

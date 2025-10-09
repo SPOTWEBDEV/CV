@@ -9,7 +9,8 @@
   "company": {
     "name": "SPOTWEBTECH",
     "founded": 2022,
-    "logo": "/images/logo.png"
+    "logo": "/images/logo.png",
+    "logo-dark": "/images/logo.jpg"
   },
   "social": {
     "github": "https://github.com/SPOTWEBDEV",

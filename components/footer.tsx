@@ -16,13 +16,21 @@ export function Footer() {
           <div className="text-center md:text-left">
             <div className="flex items-center gap-3 justify-center md:justify-start mb-2">
               <Image
-                src={profileData.company.logo || "/placeholder.svg"}
+                src={profileData.company["logo"] || "/placeholder.svg"}
                 alt={profileData.company.name}
                 width={100}
                 height={100}
-                className="object-contain"
+                className="object-contain dark:hidden"
               />
-              <p className="text-foreground font-bold">{profileData.company.name}</p>
+
+              <Image
+                src={profileData.company["logo-dark"] || "/placeholder-dark.svg"}
+                alt={profileData.company.name}
+                width={100}
+                height={100}
+                className="object-contain hidden dark:block"
+              />
+              {/* <p className="text-foreground font-bold">{profileData.company.name}</p> */}
             </div>
             <p className="text-sm text-muted-foreground">
               {profileData.name} ({profileData.nickname})
@@ -42,7 +50,7 @@ export function Footer() {
             >
               <Github className="w-5 h-5" />
             </a>
-            <a
+            {/* <a
               href={profileData.social.linkedin}
               target="_blank"
               rel="noopener noreferrer"
@@ -59,7 +67,7 @@ export function Footer() {
               aria-label="Twitter"
             >
               <Twitter className="w-5 h-5" />
-            </a>
+            </a> */}
             <a
               href={`mailto:${profileData.social.email}`}
               className="p-2 rounded-lg bg-secondary hover:bg-accent transition-all hover:scale-110"
