@@ -35,7 +35,7 @@ export function TestimonialsSection() {
                 <p className="text-muted-foreground leading-relaxed mb-6">"{testimonial.content}"</p>
 
                 <div className="flex items-center gap-3">
-                  {testimonial.logo && (
+                  {/* {testimonial.logo && (
                     <Image
                       src={testimonial.logo || "/placeholder.svg"}
                       alt={testimonial.company}
@@ -43,7 +43,7 @@ export function TestimonialsSection() {
                       height={48}
                       className="rounded-lg"
                     />
-                  )}
+                  )} */}
                   <div>
                     <p className="font-semibold text-foreground">{testimonial.company}</p>
                     <p className="text-sm text-muted-foreground">{testimonial.role}</p>

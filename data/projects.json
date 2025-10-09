@@ -4,36 +4,54 @@
       "id": 1,
       "title": "E-Commerce Platform",
       "description": "Full-stack e-commerce solution with payment integration, inventory management, and admin dashboard.",
-      "image": "/placeholder.svg?height=400&width=600",
+      "image": "/shopping.PNG",
       "technologies": ["Next.js", "Node.js", "Stripe", "PostgreSQL"],
       "link": "https://github.com/yourusername/project1",
-      "featured": true
+      "featured": false
     },
     {
       "id": 2,
-      "title": "Fitness Tracking App",
-      "description": "React Native mobile app for tracking workouts, nutrition, and fitness goals with social features.",
-      "image": "/placeholder.svg?height=400&width=600",
-      "technologies": ["React Native", "Firebase", "Redux", "Expo"],
-      "link": "https://github.com/yourusername/project2",
+      "title": "TextOrbits - Billz Company",
+      "description": "A communication platform by Billz Company that provides users with virtual phone numbers for calling, messaging, and verification services across multiple regions.",
+      "image": "/textorbits.PNG?height=400&width=600",
+      "technologies": ["Node.js", "Sms-Man API", "React.js", "MySQL"],
+      "link": "https://app.textorbits.com",
       "featured": true
     },
     {
       "id": 3,
-      "title": "Task Management System",
-      "description": "Collaborative project management tool with real-time updates and team collaboration features.",
-      "image": "/placeholder.svg?height=400&width=600",
-      "technologies": ["React", "Express", "Socket.io", "MongoDB"],
-      "link": "https://github.com/yourusername/project3",
-      "featured": false
+      "title": "Josemaka - Car Parts & Machine Marketplace",
+      "description": "A modern web platform for buying and selling car parts and industrial machines, offering secure payments and real-time inventory updates.",
+      "image": "/jokamake.PNG",
+      "technologies": ["Next.js", "Express", "PostgreSQL", "TailwindCSS"],
+      "link": "https://josemaka.com/",
+      "featured": true
     },
     {
       "id": 4,
-      "title": "Weather Dashboard",
-      "description": "Real-time weather application with forecasts, maps, and location-based alerts.",
-      "image": "/placeholder.svg?height=400&width=600",
-      "technologies": ["React", "TypeScript", "Weather API", "Mapbox"],
-      "link": "https://github.com/yourusername/project4",
+      "title": "SWT-Documentation (NPM Package)",
+      "description": "swt-documentation is a modern, user-friendly API documentation generator, inspired by Swagger. It allows developers to quickly set up beautiful, interactive documentation for their APIs with minimal configuration.",
+      "image": "/smt-documentation.PNG",
+      "technologies": ["Node.js", "Express", "EJS", "NPM"],
+      "link": "https://www.npmjs.com/package/swt-documentation",
+      "featured": true
+    },
+    {
+      "id": 5,
+      "title": "Fitness Tracking App",
+      "description": "React Native mobile app for tracking workouts, nutrition, and fitness goals with social features.",
+      "image": "/fitness.jpg",
+      "technologies": ["React Native", "Firebase", "Redux", "Expo"],
+      "link": "/about",
+      "featured": false
+    },
+    {
+      "id": 6,
+      "title": "Task Management System",
+      "description": "Collaborative project management tool with real-time updates and team collaboration features.",
+      "image": "/task.png",
+      "technologies": ["React", "Express", "Socket.io", "MongoDB"],
+      "link": "https://github.com/yourusername/project3",
       "featured": false
     }
   ]

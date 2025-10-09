@@ -3,96 +3,96 @@
     {
       "id": 1,
       "type": "company",
-      "name": "TechCorp Solutions",
+      "name": "JayHub",
       "role": "CEO",
-      "company": "TechCorp Solutions",
-      "content": "SPOTWEBTECH delivered an exceptional e-commerce platform that exceeded our expectations. Their technical expertise and attention to detail are outstanding.",
+      "company": "JayHub",
+      "content": "SPOTWEBTECH built our web and mobile trading dashboards with top-tier performance. The platform scales effortlessly, and their support team is always responsive.",
       "avatar": "/placeholder.svg?height=80&width=80",
       "logo": "/placeholder.svg?height=100&width=100"
     },
     {
       "id": 2,
-      "type": "client",
-      "name": "Sarah Johnson",
-      "role": "Product Manager",
-      "company": "Digital Innovations",
-      "content": "Working with Firstclass was a game-changer for our project. His React Native expertise helped us launch our mobile app ahead of schedule.",
-      "avatar": null
+      "type": "company",
+      "name": "Billlz Exchange",
+      "role": "Technical Director",
+      "company": "Billlz Exchange",
+      "content": "The crypto trading interface developed by SPOTWEBTECH is seamless, secure, and user-friendly. Their expertise in fintech development is unmatched.",
+      "avatar": "/placeholder.svg?height=80&width=80",
+      "logo": "/placeholder.svg?height=100&width=100"
     },
     {
       "id": 3,
       "type": "company",
-      "name": "Global Finance Ltd",
-      "role": "CTO",
-      "company": "Global Finance Ltd",
-      "content": "The financial dashboard developed by SPOTWEBTECH is robust, secure, and user-friendly. Highly recommended for enterprise solutions.",
+      "name": "Digital Dreams ICT Academy",
+      "role": "Head of Development",
+      "company": "Digital Dreams ICT Academy",
+      "content": "SPOTWEBTECH transformed our student management system into a modern web solution. The speed and usability are beyond expectations.",
       "avatar": "/placeholder.svg?height=80&width=80",
       "logo": "/placeholder.svg?height=100&width=100"
     },
     {
       "id": 4,
-      "type": "client",
-      "name": "Michael Chen",
-      "role": "Startup Founder",
-      "company": "StartupHub",
-      "content": "Ezea transformed our vision into reality. His full-stack skills and problem-solving abilities are truly impressive.",
-      "avatar": null
+      "type": "company",
+      "name": "TradeSmartBot",
+      "role": "Chief Technology Officer",
+      "company": "TradeSmartBot",
+      "content": "Their automation bot and user dashboard helped us scale operations securely. SPOTWEBTECH delivers reliable and efficient backend systems.",
+      "avatar": "/placeholder.svg?height=80&width=80",
+      "logo": "/placeholder.svg?height=100&width=100"
     },
     {
       "id": 5,
       "type": "company",
-      "name": "HealthTech Systems",
-      "role": "Director of Engineering",
-      "company": "HealthTech Systems",
-      "content": "SPOTWEBTECH built our telemedicine platform with exceptional quality. The code is clean, scalable, and well-documented.",
+      "name": "PrimeFort Capital",
+      "role": "Managing Director",
+      "company": "PrimeFort Capital",
+      "content": "The investment dashboard created by SPOTWEBTECH improved our user experience significantly. Their fintech expertise is top-notch.",
       "avatar": "/placeholder.svg?height=80&width=80",
       "logo": "/placeholder.svg?height=100&width=100"
     },
     {
       "id": 6,
       "type": "client",
-      "name": "Amanda Rodriguez",
-      "role": "Marketing Director",
-      "company": "BrandBoost",
-      "content": "The website Firstclass created for us is beautiful and performs flawlessly. Our conversion rates have increased by 40%.",
+      "name": "Chiamaka Okafor",
+      "role": "Entrepreneur",
+      "company": "LuxeStyle Boutique",
+      "content": "My online store looks amazing! SPOTWEBTECH made everything fast, mobile-friendly, and easy to manage.",
       "avatar": null
     },
     {
       "id": 7,
-      "type": "company",
-      "name": "EduLearn Platform",
-      "role": "Head of Product",
-      "company": "EduLearn Platform",
-      "content": "Our e-learning platform built by SPOTWEBTECH handles thousands of concurrent users seamlessly. Outstanding work!",
-      "avatar": "/placeholder.svg?height=80&width=80",
-      "logo": "/placeholder.svg?height=100&width=100"
+      "type": "client",
+      "name": "Daniel Smith",
+      "role": "Software Consultant",
+      "company": "TechSphere",
+      "content": "Working with SPOTWEBTECH was seamless. His full-stack development skills saved us weeks of work.",
+      "avatar": null
     },
     {
       "id": 8,
       "type": "client",
-      "name": "David Thompson",
-      "role": "Restaurant Owner",
-      "company": "Gourmet Bistro",
-      "content": "The online ordering system is perfect! Easy to use and our customers love it. Thank you, Firstclass!",
+      "name": "Thabo Maseko",
+      "role": "Digital Marketer",
+      "company": "BrandBoost SA",
+      "content": "SPOTWEBTECH built our landing pages with great performance and conversion optimization. Highly recommended!",
       "avatar": null
     },
     {
       "id": 9,
-      "type": "company",
-      "name": "RetailMax Inc",
-      "role": "VP of Technology",
-      "company": "RetailMax Inc",
-      "content": "SPOTWEBTECH's inventory management system revolutionized our operations. The ROI was evident within the first month.",
-      "avatar": "/placeholder.svg?height=80&width=80",
-      "logo": "/placeholder.svg?height=100&width=100"
+      "type": "client",
+      "name": "Aisha Bello",
+      "role": "Freelance Graphic Designer",
+      "company": "AB Designs",
+      "content": "My portfolio website now looks sleek and loads fast. SPOTWEBTECH pays attention to every detail.",
+      "avatar": null
     },
     {
       "id": 10,
       "type": "client",
-      "name": "Lisa Wang",
-      "role": "Freelance Designer",
-      "company": "Creative Studio",
-      "content": "Ezea brought my portfolio design to life with pixel-perfect precision. His React skills are top-notch!",
+      "name": "Ethan Johnson",
+      "role": "Music Producer",
+      "company": "SoundWave Studios",
+      "content": "The music streaming platform is smooth and responsive. Great UI and audio integration by SPOTWEBTECH!",
       "avatar": null
     },
     {
@@ -130,7 +130,7 @@
       "name": "Patricia Brown",
       "role": "Fitness Coach",
       "company": "FitLife Coaching",
-      "content": "My fitness app built by Firstclass has helped me reach more clients. The booking system works perfectly!",
+      "content": "My fitness app built by SPOTWEBTECH has helped me reach more clients. The booking system works perfectly!",
       "avatar": null
     },
     {
@@ -149,7 +149,7 @@
       "name": "Robert Garcia",
       "role": "Event Planner",
       "company": "Elite Events",
-      "content": "The event management system streamlined our entire workflow. Firstclass is a talented developer!",
+      "content": "The event management system streamlined our entire workflow. SPOTWEBTECH is a talented developer!",
       "avatar": null
     },
     {
@@ -168,7 +168,7 @@
       "name": "Emily Davis",
       "role": "Blogger",
       "company": "Travel Tales",
-      "content": "My travel blog looks amazing and loads super fast. Ezea's attention to performance is impressive!",
+      "content": "My travel blog looks amazing and loads super fast. SPOTWEBTECH's attention to performance is impressive!",
       "avatar": null
     },
     {
@@ -187,8 +187,11 @@
       "name": "Kevin O'Brien",
       "role": "Music Producer",
       "company": "SoundWave Studios",
-      "content": "The music streaming platform Firstclass built is incredible. The audio quality and UI are both outstanding!",
+      "content": "The music streaming platform SPOTWEBTECH built is incredible. The audio quality and UI are both outstanding!",
       "avatar": null
     }
   ]
 }
+
+
+

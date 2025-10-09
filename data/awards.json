@@ -2,12 +2,12 @@
   "awards": [
     {
       "id": 1,
-      "title": "Best Mobile App Award",
-      "organization": "Tech Innovation Summit",
-      "year": "2023",
-      "description": "Recognized for outstanding mobile application design and user experience."
+      "title": "Best Graduating Student Award",
+      "organization": "Digital Dreams ICT Academy  — Agbani Road Enugu",
+      "year": "2021",
+      "description": "First place for building an innovative solution to environmental challenges."
     },
-    {
+     {
       "id": 2,
       "title": "Developer of the Year",
       "organization": "Local Tech Community",
@@ -16,9 +16,17 @@
     },
     {
       "id": 3,
+      "title": "Best Mobile App Award",
+      "organization": "Tech Innovation Summit - Enugu State",
+      "year": "2025",
+      "description": "Recognized for outstanding mobile application design and user experience."
+    },
+   
+    {
+      "id": 4,
       "title": "Hackathon Winner",
-      "organization": "Global Hack Week",
-      "year": "2021",
+      "organization": "Global Hack Week - Lagos",
+      "year": "2022",
       "description": "First place for building an innovative solution to environmental challenges."
     }
   ]

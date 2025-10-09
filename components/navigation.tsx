@@ -45,8 +45,8 @@ export function Navigation() {
             <Image
               src={profileData.company.logo || "/placeholder.svg"}
               alt={profileData.company.name}
-              width={40}
-              height={40}
+              width={100}
+              height={100}
               className="object-contain"
             />
             <span className="text-xl font-bold text-foreground hidden sm:block">{profileData.company.name}</span>

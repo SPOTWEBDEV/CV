@@ -2,19 +2,19 @@
   "categories": [
     {
       "name": "Frontend Development",
-      "skills": ["React.js", "Next.js", "TypeScript", "Tailwind CSS", "HTML5", "CSS3", "JavaScript"]
+      "skills": ["React.js", "Next.js", "TypeScript", "Tailwind CSS", "HTML5", "CSS3", "JavaScript", "Redux", "Zustand", "Sass", "Styled-Components", "Material-UI", "Chakra UI", "Framer Motion", "GSAP", "Responsive Design", "Cross-Browser Compatibility", "Web Accessibility (a11y)", "Performance Optimization", "SEO Best Practices", "GraphQL", "React Query", "Vite", "Webpack", "Babel", "Jest","React Testing Library","ESLint", "Prettier", "NPM", "Yarn", "pnpm", "Vercel", "Netlify","GitHub Pages", "Bitbucket Pages" ,"Firebase Hosting"]
     },
     {
       "name": "Backend Development",
-      "skills": ["Node.js", "Express", "Python", "Django", "PostgreSQL", "MongoDB", "REST APIs"]
+      "skills": ["Node.js", "Express", "Python", "Django", "PostgreSQL", "MongoDB", "REST APIs" , "SQL", "GraphQL", "Firebase", "Supabase", "Prisma","AWS", "Heroku", "Render"]
     },
     {
       "name": "Mobile Development",
-      "skills": ["React Native", "Expo", "iOS", "Android", "Mobile UI/UX"]
+      "skills": ["React Native", "Expo", "iOS", "Android", "Mobile UI/UX", "Push Notifications", "App Store Deployment", "Google Play Deployment", "Flutter" , "Swift", "Kotlin", "Ionic" , "Xamarin", "NativeScript", "Cordova", "PhoneGap", "Mobile Performance Optimization", "Mobile Testing" , "Mobile Security" , "Mobile Analytics" , "Mobile Payment Integration" , "Cross-Platform Development" , "Progressive Web Apps (PWAs)" , "Mobile Backend as a Service (MBaaS)" , "Appium" , "Detox" , "Firebase Analytics" , "Crashlytics" , "OneSignal" , "In-App Purchases" , "AdMob" , "Google Maps SDK" , "Camera Integration" , "Geolocation Services"]
     },
     {
       "name": "Tools & Technologies",
-      "skills": ["Git", "Docker", "AWS", "CI/CD", "Webpack", "Vite", "Jest"]
+      "skills": ["Git", "Docker", "AWS", "CI/CD", "Webpack", "Vite", "Jest", "Cypress", "Postman", "Figma", "VS Code", "Linux", "NPM", "Yarn", "ESLint", "Prettier", "Storybook", "Redux", "Zustand", "MobX", "Recoil", "Jira", "Confluence", "Slack", "Trello", "Notion"]
     }
   ]
 }

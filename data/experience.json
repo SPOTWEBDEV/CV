@@ -3,29 +3,29 @@
     {
       "id": 1,
       "title": "Senior Full Stack Developer",
-      "company": "Tech Company",
-      "location": "Remote",
-      "period": "2022 — Present",
-      "description": "Lead development of scalable web applications using React, Node.js, and cloud technologies. Mentor junior developers and establish best practices.",
-      "technologies": ["React", "Node.js", "TypeScript", "AWS", "PostgreSQL"]
+      "company": "Digital Dreams ICT Academy",
+      "location": "Full Time",
+      "period": "2022 — 2024",
+      "description": "Led the development of scalable web-based learning platforms and internal tools for the academy. Built responsive user interfaces with React and maintained secure backends using PHP and MySQL. Mentored junior developers and implemented modern coding standards across all projects.",
+      "technologies": ["React", "PHP", "JavaScript", "TypeScript", "MySQL"]
     },
     {
       "id": 2,
-      "title": "React Native Developer",
-      "company": "Mobile Solutions Inc",
-      "location": "City, Country",
-      "period": "2020 — 2022",
-      "description": "Built cross-platform mobile applications for iOS and Android. Implemented complex UI components and integrated with backend APIs.",
-      "technologies": ["React Native", "Redux", "Firebase", "REST APIs"]
+      "title": "Senior Full Stack Developer",
+      "company": "JayHub",
+      "location": "Remote",
+      "period": "2020 — Present",
+      "description": "Architected and developed advanced web and mobile applications, focusing on seamless integration between frontend and backend systems. Designed scalable APIs, optimized database performance, and ensured efficient deployment pipelines for production environments.",
+      "technologies": ["React", "React Native", "Node.js", "Redux", "Firebase", "REST APIs"]
     },
     {
       "id": 3,
-      "title": "Software Developer",
-      "company": "Software Corp",
-      "location": "City, Country",
-      "period": "2018 — 2020",
-      "description": "Developed and maintained enterprise software solutions. Collaborated with cross-functional teams to deliver high-quality products.",
-      "technologies": ["JavaScript", "Python", "Django", "MySQL"]
+      "title": "Senior Full Stack Developer",
+      "company": "Bily",
+      "location": "Onsite and Remote",
+      "period": "2025 — Present",
+      "description": "Spearheading the development of enterprise-level web applications with a focus on performance, security, and scalability. Managing the full development cycle — from UI design in Next.js to backend integration with Node.js and MongoDB. Collaborating with designers and product teams to deliver top-tier digital solutions.",
+      "technologies": ["Next.js", "React.js", "Node.js", "Express.js", "MongoDB"]
     }
   ]
 }

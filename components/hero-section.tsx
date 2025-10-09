@@ -1,6 +1,6 @@
 "use client"
 
-import { Github, Linkedin, Twitter, Mail } from "lucide-react"
+import { Github, Linkedin, Twitter, Mail , MessageCircle } from "lucide-react"
 import Image from "next/image"
 import { useLanguage } from "@/contexts/language-context"
 import profileData from "@/data/profile.json"
@@ -40,7 +40,7 @@ export function HeroSection() {
               >
                 <Github className="w-6 h-6" />
               </a>
-              <a
+              {/* <a
                 href={profileData.social.linkedin}
                 target="_blank"
                 rel="noopener noreferrer"
@@ -48,8 +48,8 @@ export function HeroSection() {
                 aria-label="LinkedIn"
               >
                 <Linkedin className="w-6 h-6" />
-              </a>
-              <a
+              </a> */}
+              {/* <a
                 href={profileData.social.twitter}
                 target="_blank"
                 rel="noopener noreferrer"
@@ -57,13 +57,20 @@ export function HeroSection() {
                 aria-label="Twitter"
               >
                 <Twitter className="w-6 h-6" />
-              </a>
+              </a> */}
               <a
                 href={`mailto:${profileData.social.email}`}
                 className="p-3 rounded-lg bg-secondary hover:bg-accent transition-all hover:scale-110"
                 aria-label="Email"
               >
                 <Mail className="w-6 h-6" />
+              </a>
+              <a
+                href={`mailto:${profileData.social.email}`}
+                className="p-3 rounded-lg bg-secondary hover:bg-accent transition-all hover:scale-110"
+                aria-label="Email"
+              >
+                <MessageCircle className="w-6 h-6" />
               </a>
             </div>
           </div>

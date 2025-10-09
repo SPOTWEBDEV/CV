@@ -15,8 +15,10 @@ export function ContactSection() {
   }
 
   const handleEmail = () => {
-    window.location.href = `mailto:${email}?subject=Project Inquiry`
-  }
+  const mailto = `mailto:${email}?subject=Project Inquiry`;
+  console.log('Opening mail client:', mailto);
+  window.open(mailto, '_blank');
+};
 
   return (
     <section id="contact" className="py-20 px-4">

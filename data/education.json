@@ -2,19 +2,27 @@
   "degrees": [
     {
       "id": 1,
-      "degree": "Bachelor of Science in Computer Science",
-      "institution": "University Name",
-      "location": "City, Country",
-      "period": "2014 — 2018",
-      "description": "Focused on software engineering, algorithms, and data structures. Graduated with honors."
+      "degree": "Mechanical Engineering",
+      "institution": "Institute of Management and Technology (IMT)",
+      "location": "Enugu, Nigeria",
+      "period": "2019 — 2020",
+      "description": "Studied the principles of mechanical systems design, thermodynamics, and applied physics. Gained hands-on experience with engineering drawings, manufacturing processes, and technical problem-solving."
     },
     {
       "id": 2,
-      "degree": "Full Stack Web Development Bootcamp",
-      "institution": "Coding Academy",
+      "degree": "Full Stack Web Development",
+      "institution": "Digital Dreams ICT Academy",
+      "location": "Enugu, Nigeria",
+      "period": "2021 — 2022",
+      "description": "Completed an intensive program focused on building dynamic web applications using HTML, CSS, JavaScript, React, Node.js, and PHP. Learned best practices in version control, database management, and modern web architecture."
+    },
+    {
+      "id": 3,
+      "degree": "Software Engineering",
+      "institution": "Hux WebDev",
       "location": "Online",
-      "period": "2017",
-      "description": "Intensive program covering modern web development technologies and best practices."
+      "period": "2022 — 2023",
+      "description": "Specialized in software design and development with emphasis on coding standards, system architecture, and agile methodologies. Worked on real-world projects involving algorithms, APIs, and cloud-based solutions."
     }
   ]
 }

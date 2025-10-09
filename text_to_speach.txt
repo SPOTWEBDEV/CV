@@ -1,0 +1,35 @@
+Hello and welcome to my portfolio!
+My name is Ezea Ugochukwu Micheal, a passionate Full Stack Web Developer, Software Engineer, and the proud CEO of Spotweb Tech, a technology company focused on innovative web, app, and software development.
+
+I specialize in building scalable and modern applications using technologies such as React.js, Node.js, Next.js, PHP, TypeScript, MySQL, and MongoDB.
+I love solving real-world problems through clean, efficient, and intelligent code.
+
+Let’s take a journey through my professional experience.
+
+I served as a Senior Full Stack Developer at Digital Dreams ICT Academy from 2022 to 2024, where I led the development of scalable web applications using React, Node.js, and cloud technologies. I also mentored junior developers and helped establish strong engineering practices.
+
+Before that, I worked remotely with JayHub since 2022, where I built cross-platform mobile applications using React Native, Redux, and Firebase.
+I’m also currently working with Bily, where I develop and maintain enterprise software solutions, collaborating with cross-functional teams to deliver high-quality products using React.js, Node.js, Next.js, and MongoDB.
+
+Now, let’s talk about education.
+I studied Full Stack Web Development at Digital Dreams ICT Academy in Enugu, Nigeria, between 2021 and 2022 — an intensive program that equipped me with advanced web development skills.
+I also completed a Software Engineering course at Hux WebDev from 2022 to 2023, where I focused on algorithms, data structures, and full system design.
+Before that, I attended the Institution of Management and Technology, where I studied Mechanical Engineering.
+
+Over the years, I’ve received several recognitions for my dedication to software excellence and leadership in web technology innovation.
+
+Now, here are some of my top projects.
+
+The E-Commerce Platform — a full-stack shopping solution with payment integration, inventory management, and an admin dashboard, built with Next.js, Node.js, Stripe, and PostgreSQL.
+
+The Virtual Phone Number Platform — created for Billz Company, providing users with virtual phone numbers for calls, messaging, and verification, powered by Node.js, Twilio API, and React.
+
+Josemaka — a powerful marketplace for selling car parts and industrial machines, featuring a modern design, secure transactions, and real-time updates, built with Next.js, Express, and PostgreSQL.
+
+And finally, SWT-Documentation, a modern npm package inspired by Swagger that generates clean and interactive API documentation for developers with minimal configuration.
+
+Each project showcases my passion for building intelligent, secure, and visually stunning digital products that make a difference.
+
+Thank you for taking the time to learn about me — Ezea Ugochukwu Micheal,
+CEO of Spotweb Tech — where creativity meets innovation.
+Let’s build the future together.
