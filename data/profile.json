@@ -1,0 +1,20 @@
+{
+  "name": "Ezea Ugochukwu Micheal",
+  "nickname": "Firstclass",
+  "title": "Full Stack Developer",
+  "subtitle": "Web Developer • React Native Developer • Software Engineer",
+  "bio": "I'm a passionate developer specializing in creating accessible, high-performance web and mobile applications. With expertise in full-stack development, React Native, and software architecture, I bring innovative solutions to complex challenges.",
+  "location": "Nigeria",
+  "avatar": "/images/profile.jpg",
+  "company": {
+    "name": "SPOTWEBTECH",
+    "founded": 2022,
+    "logo": "/images/logo.png"
+  },
+  "social": {
+    "github": "https://github.com/SPOTWEBDEV",
+    "linkedin": "https://linkedin.com/in/firstclass",
+    "twitter": "https://twitter.com/firstclass",
+    "email": "spotwebdev.com@gmail.com"
+  }
+}

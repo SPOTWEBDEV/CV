@@ -1,0 +1,40 @@
+{
+  "projects": [
+    {
+      "id": 1,
+      "title": "E-Commerce Platform",
+      "description": "Full-stack e-commerce solution with payment integration, inventory management, and admin dashboard.",
+      "image": "/placeholder.svg?height=400&width=600",
+      "technologies": ["Next.js", "Node.js", "Stripe", "PostgreSQL"],
+      "link": "https://github.com/yourusername/project1",
+      "featured": true
+    },
+    {
+      "id": 2,
+      "title": "Fitness Tracking App",
+      "description": "React Native mobile app for tracking workouts, nutrition, and fitness goals with social features.",
+      "image": "/placeholder.svg?height=400&width=600",
+      "technologies": ["React Native", "Firebase", "Redux", "Expo"],
+      "link": "https://github.com/yourusername/project2",
+      "featured": true
+    },
+    {
+      "id": 3,
+      "title": "Task Management System",
+      "description": "Collaborative project management tool with real-time updates and team collaboration features.",
+      "image": "/placeholder.svg?height=400&width=600",
+      "technologies": ["React", "Express", "Socket.io", "MongoDB"],
+      "link": "https://github.com/yourusername/project3",
+      "featured": false
+    },
+    {
+      "id": 4,
+      "title": "Weather Dashboard",
+      "description": "Real-time weather application with forecasts, maps, and location-based alerts.",
+      "image": "/placeholder.svg?height=400&width=600",
+      "technologies": ["React", "TypeScript", "Weather API", "Mapbox"],
+      "link": "https://github.com/yourusername/project4",
+      "featured": false
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "categories": [
+    {
+      "name": "Frontend Development",
+      "skills": ["React.js", "Next.js", "TypeScript", "Tailwind CSS", "HTML5", "CSS3", "JavaScript"]
+    },
+    {
+      "name": "Backend Development",
+      "skills": ["Node.js", "Express", "Python", "Django", "PostgreSQL", "MongoDB", "REST APIs"]
+    },
+    {
+      "name": "Mobile Development",
+      "skills": ["React Native", "Expo", "iOS", "Android", "Mobile UI/UX"]
+    },
+    {
+      "name": "Tools & Technologies",
+      "skills": ["Git", "Docker", "AWS", "CI/CD", "Webpack", "Vite", "Jest"]
+    }
+  ]
+}

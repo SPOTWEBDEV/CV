@@ -1,0 +1,20 @@
+{
+  "degrees": [
+    {
+      "id": 1,
+      "degree": "Bachelor of Science in Computer Science",
+      "institution": "University Name",
+      "location": "City, Country",
+      "period": "2014 — 2018",
+      "description": "Focused on software engineering, algorithms, and data structures. Graduated with honors."
+    },
+    {
+      "id": 2,
+      "degree": "Full Stack Web Development Bootcamp",
+      "institution": "Coding Academy",
+      "location": "Online",
+      "period": "2017",
+      "description": "Intensive program covering modern web development technologies and best practices."
+    }
+  ]
+}

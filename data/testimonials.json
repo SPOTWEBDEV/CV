@@ -1,0 +1,194 @@
+{
+  "testimonials": [
+    {
+      "id": 1,
+      "type": "company",
+      "name": "TechCorp Solutions",
+      "role": "CEO",
+      "company": "TechCorp Solutions",
+      "content": "SPOTWEBTECH delivered an exceptional e-commerce platform that exceeded our expectations. Their technical expertise and attention to detail are outstanding.",
+      "avatar": "/placeholder.svg?height=80&width=80",
+      "logo": "/placeholder.svg?height=100&width=100"
+    },
+    {
+      "id": 2,
+      "type": "client",
+      "name": "Sarah Johnson",
+      "role": "Product Manager",
+      "company": "Digital Innovations",
+      "content": "Working with Firstclass was a game-changer for our project. His React Native expertise helped us launch our mobile app ahead of schedule.",
+      "avatar": null
+    },
+    {
+      "id": 3,
+      "type": "company",
+      "name": "Global Finance Ltd",
+      "role": "CTO",
+      "company": "Global Finance Ltd",
+      "content": "The financial dashboard developed by SPOTWEBTECH is robust, secure, and user-friendly. Highly recommended for enterprise solutions.",
+      "avatar": "/placeholder.svg?height=80&width=80",
+      "logo": "/placeholder.svg?height=100&width=100"
+    },
+    {
+      "id": 4,
+      "type": "client",
+      "name": "Michael Chen",
+      "role": "Startup Founder",
+      "company": "StartupHub",
+      "content": "Ezea transformed our vision into reality. His full-stack skills and problem-solving abilities are truly impressive.",
+      "avatar": null
+    },
+    {
+      "id": 5,
+      "type": "company",
+      "name": "HealthTech Systems",
+      "role": "Director of Engineering",
+      "company": "HealthTech Systems",
+      "content": "SPOTWEBTECH built our telemedicine platform with exceptional quality. The code is clean, scalable, and well-documented.",
+      "avatar": "/placeholder.svg?height=80&width=80",
+      "logo": "/placeholder.svg?height=100&width=100"
+    },
+    {
+      "id": 6,
+      "type": "client",
+      "name": "Amanda Rodriguez",
+      "role": "Marketing Director",
+      "company": "BrandBoost",
+      "content": "The website Firstclass created for us is beautiful and performs flawlessly. Our conversion rates have increased by 40%.",
+      "avatar": null
+    },
+    {
+      "id": 7,
+      "type": "company",
+      "name": "EduLearn Platform",
+      "role": "Head of Product",
+      "company": "EduLearn Platform",
+      "content": "Our e-learning platform built by SPOTWEBTECH handles thousands of concurrent users seamlessly. Outstanding work!",
+      "avatar": "/placeholder.svg?height=80&width=80",
+      "logo": "/placeholder.svg?height=100&width=100"
+    },
+    {
+      "id": 8,
+      "type": "client",
+      "name": "David Thompson",
+      "role": "Restaurant Owner",
+      "company": "Gourmet Bistro",
+      "content": "The online ordering system is perfect! Easy to use and our customers love it. Thank you, Firstclass!",
+      "avatar": null
+    },
+    {
+      "id": 9,
+      "type": "company",
+      "name": "RetailMax Inc",
+      "role": "VP of Technology",
+      "company": "RetailMax Inc",
+      "content": "SPOTWEBTECH's inventory management system revolutionized our operations. The ROI was evident within the first month.",
+      "avatar": "/placeholder.svg?height=80&width=80",
+      "logo": "/placeholder.svg?height=100&width=100"
+    },
+    {
+      "id": 10,
+      "type": "client",
+      "name": "Lisa Wang",
+      "role": "Freelance Designer",
+      "company": "Creative Studio",
+      "content": "Ezea brought my portfolio design to life with pixel-perfect precision. His React skills are top-notch!",
+      "avatar": null
+    },
+    {
+      "id": 11,
+      "type": "company",
+      "name": "LogiTrack Solutions",
+      "role": "Operations Manager",
+      "company": "LogiTrack Solutions",
+      "content": "The logistics tracking system from SPOTWEBTECH improved our efficiency by 60%. Exceptional development quality.",
+      "avatar": "/placeholder.svg?height=80&width=80",
+      "logo": "/placeholder.svg?height=100&width=100"
+    },
+    {
+      "id": 12,
+      "type": "client",
+      "name": "James Mitchell",
+      "role": "Real Estate Agent",
+      "company": "Prime Properties",
+      "content": "The property listing platform is exactly what we needed. Fast, responsive, and easy to manage. Great job!",
+      "avatar": null
+    },
+    {
+      "id": 13,
+      "type": "company",
+      "name": "SocialConnect Media",
+      "role": "CEO",
+      "company": "SocialConnect Media",
+      "content": "SPOTWEBTECH developed our social media management tool with incredible features. The user experience is phenomenal.",
+      "avatar": "/placeholder.svg?height=80&width=80",
+      "logo": "/placeholder.svg?height=100&width=100"
+    },
+    {
+      "id": 14,
+      "type": "client",
+      "name": "Patricia Brown",
+      "role": "Fitness Coach",
+      "company": "FitLife Coaching",
+      "content": "My fitness app built by Firstclass has helped me reach more clients. The booking system works perfectly!",
+      "avatar": null
+    },
+    {
+      "id": 15,
+      "type": "company",
+      "name": "AutoDrive Systems",
+      "role": "Technical Lead",
+      "company": "AutoDrive Systems",
+      "content": "The vehicle management dashboard from SPOTWEBTECH is robust and feature-rich. Excellent technical execution.",
+      "avatar": "/placeholder.svg?height=80&width=80",
+      "logo": "/placeholder.svg?height=100&width=100"
+    },
+    {
+      "id": 16,
+      "type": "client",
+      "name": "Robert Garcia",
+      "role": "Event Planner",
+      "company": "Elite Events",
+      "content": "The event management system streamlined our entire workflow. Firstclass is a talented developer!",
+      "avatar": null
+    },
+    {
+      "id": 17,
+      "type": "company",
+      "name": "CloudSecure Tech",
+      "role": "Security Officer",
+      "company": "CloudSecure Tech",
+      "content": "SPOTWEBTECH implemented our security protocols flawlessly. The authentication system is rock-solid.",
+      "avatar": "/placeholder.svg?height=80&width=80",
+      "logo": "/placeholder.svg?height=100&width=100"
+    },
+    {
+      "id": 18,
+      "type": "client",
+      "name": "Emily Davis",
+      "role": "Blogger",
+      "company": "Travel Tales",
+      "content": "My travel blog looks amazing and loads super fast. Ezea's attention to performance is impressive!",
+      "avatar": null
+    },
+    {
+      "id": 19,
+      "type": "company",
+      "name": "PayFlow Systems",
+      "role": "Product Director",
+      "company": "PayFlow Systems",
+      "content": "The payment gateway integration by SPOTWEBTECH is seamless and secure. Professional work from start to finish.",
+      "avatar": "/placeholder.svg?height=80&width=80",
+      "logo": "/placeholder.svg?height=100&width=100"
+    },
+    {
+      "id": 20,
+      "type": "client",
+      "name": "Kevin O'Brien",
+      "role": "Music Producer",
+      "company": "SoundWave Studios",
+      "content": "The music streaming platform Firstclass built is incredible. The audio quality and UI are both outstanding!",
+      "avatar": null
+    }
+  ]
+}

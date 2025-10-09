@@ -1,0 +1,31 @@
+{
+  "positions": [
+    {
+      "id": 1,
+      "title": "Senior Full Stack Developer",
+      "company": "Tech Company",
+      "location": "Remote",
+      "period": "2022 — Present",
+      "description": "Lead development of scalable web applications using React, Node.js, and cloud technologies. Mentor junior developers and establish best practices.",
+      "technologies": ["React", "Node.js", "TypeScript", "AWS", "PostgreSQL"]
+    },
+    {
+      "id": 2,
+      "title": "React Native Developer",
+      "company": "Mobile Solutions Inc",
+      "location": "City, Country",
+      "period": "2020 — 2022",
+      "description": "Built cross-platform mobile applications for iOS and Android. Implemented complex UI components and integrated with backend APIs.",
+      "technologies": ["React Native", "Redux", "Firebase", "REST APIs"]
+    },
+    {
+      "id": 3,
+      "title": "Software Developer",
+      "company": "Software Corp",
+      "location": "City, Country",
+      "period": "2018 — 2020",
+      "description": "Developed and maintained enterprise software solutions. Collaborated with cross-functional teams to deliver high-quality products.",
+      "technologies": ["JavaScript", "Python", "Django", "MySQL"]
+    }
+  ]
+}

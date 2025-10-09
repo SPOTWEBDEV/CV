@@ -1,0 +1,43 @@
+{
+  "nav": {
+    "about": "关于",
+    "skills": "技能",
+    "experience": "经验",
+    "projects": "项目",
+    "education": "教育",
+    "awards": "奖项",
+    "testimonials": "推荐",
+    "contact": "联系"
+  },
+  "hero": {
+    "title": "全栈开发者",
+    "subtitle": "网页开发者 • React Native 开发者 • 软件工程师",
+    "bio": "我是一名充满热情的开发者，专注于创建可访问、高性能的网页和移动应用程序。凭借全栈开发、React Native 和软件架构方面的专业知识，我为复杂挑战带来创新解决方案。",
+    "location": "尼日利亚"
+  },
+  "languageModal": {
+    "title": "选择您的语言",
+    "subtitle": "选择您的首选语言以继续"
+  },
+  "settings": {
+    "title": "设置",
+    "language": "语言",
+    "audio": "背景音频",
+    "audioOn": "开启",
+    "audioOff": "关闭"
+  },
+  "testimonials": {
+    "title": "客户和公司的评价",
+    "clientTitle": "客户推荐",
+    "companyTitle": "公司推荐"
+  },
+  "contact": {
+    "title": "保持联系",
+    "bookWhatsApp": "通过 WhatsApp 预订",
+    "sendEmail": "发送邮件"
+  },
+  "footer": {
+    "rights": "版权所有。",
+    "company": "SPOTWEBTECH"
+  }
+}

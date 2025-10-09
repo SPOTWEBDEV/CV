@@ -1,0 +1,43 @@
+{
+  "nav": {
+    "about": "Acerca de",
+    "skills": "Habilidades",
+    "experience": "Experiencia",
+    "projects": "Proyectos",
+    "education": "Educación",
+    "awards": "Premios",
+    "testimonials": "Testimonios",
+    "contact": "Contacto"
+  },
+  "hero": {
+    "title": "Desarrollador Full Stack",
+    "subtitle": "Desarrollador Web • Desarrollador React Native • Ingeniero de Software",
+    "bio": "Soy un desarrollador apasionado especializado en crear aplicaciones web y móviles accesibles y de alto rendimiento. Con experiencia en desarrollo full-stack, React Native y arquitectura de software, aporto soluciones innovadoras a desafíos complejos.",
+    "location": "Nigeria"
+  },
+  "languageModal": {
+    "title": "Elige tu idioma",
+    "subtitle": "Selecciona tu idioma preferido para continuar"
+  },
+  "settings": {
+    "title": "Configuración",
+    "language": "Idioma",
+    "audio": "Audio de fondo",
+    "audioOn": "Activado",
+    "audioOff": "Desactivado"
+  },
+  "testimonials": {
+    "title": "Lo que dicen clientes y empresas",
+    "clientTitle": "Testimonios de clientes",
+    "companyTitle": "Testimonios de empresas"
+  },
+  "contact": {
+    "title": "Ponerse en contacto",
+    "bookWhatsApp": "Reservar por WhatsApp",
+    "sendEmail": "Enviar correo"
+  },
+  "footer": {
+    "rights": "Todos los derechos reservados.",
+    "company": "SPOTWEBTECH"
+  }
+}
