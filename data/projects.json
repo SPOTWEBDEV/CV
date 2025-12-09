@@ -19,6 +19,15 @@
       "featured": true
     },
     {
+      "id": 7,
+      "title": "Boost Yard - Larry Digital Hub",
+      "description": "Boost Yard helps you increase followers, views, engagement, and overall visibility across all major social media platforms — fast, reliable, and secure.",
+      "image": "/boostyard.PNG?height=400&width=600",
+      "technologies": ["PHP", "Javascript", "MySQL"],
+      "link": "https://boostyard.com.yahhh44.com/",
+      "featured": true
+    },
+    {
       "id": 3,
       "title": "Josemaka - Car Parts & Machine Marketplace",
       "description": "A modern web platform for buying and selling car parts and industrial machines, offering secure payments and real-time inventory updates.",
